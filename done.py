@@ -117,4 +117,3 @@ def sal_left():
     y = dt.left
     z = pd.crosstab(x,y)
     print(z)
-sal_left()
